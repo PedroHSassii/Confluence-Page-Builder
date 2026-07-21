@@ -90,4 +90,4 @@ A automação cria páginas reais no espaço configurado. Confirme o `SPACE_ID`,
 
 ## Licença
 
-Projeto de uso interno. Adicione uma licença explícita antes de distribuí-lo publicamente.
+Este projeto está disponível sob a [Licença MIT](LICENSE).
